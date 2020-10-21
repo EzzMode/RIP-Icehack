@@ -1,7 +1,8 @@
 # IceHack v1.0.0, v1.3-v1.5
 ## >user directory in hwid gen
 
-dont be like this guy ![this guy](https://i.imgur.com/oOATPc9.png)
+dont be like this guy 
+![this guy](https://i.imgur.com/oOATPc9.png)
 
 ## HWID Gen be like
 
